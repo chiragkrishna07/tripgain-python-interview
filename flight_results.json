@@ -1,0 +1,532 @@
+[
+  {
+    "airline": "OneWay",
+    "flight_number": "6E-5267",
+    "departure": "19:15",
+    "arrival": "22:10",
+    "price": "₹ 13,111",
+    "origin": "Bangalore",
+    "destination": "Delhi",
+    "searchdatetime": "2025-10-18T06:34:19.963524Z"
+  },
+  {
+    "airline": "Depart Time (BLR) - (DEL)",
+    "flight_number": "6E-5267",
+    "departure": "19:15",
+    "arrival": "22:10",
+    "price": "₹ 13,111",
+    "origin": "Bangalore",
+    "destination": "Delhi",
+    "searchdatetime": "2025-10-18T06:34:20.111577Z"
+  },
+  {
+    "airline": "Next Day",
+    "flight_number": "6E-5267",
+    "departure": "19:15",
+    "arrival": "22:10",
+    "price": "₹ 13,111",
+    "origin": "Bangalore",
+    "destination": "Delhi",
+    "searchdatetime": "2025-10-18T06:34:20.199151Z"
+  },
+  {
+    "airline": "Airline",
+    "flight_number": "6E-5267",
+    "departure": "19:15",
+    "arrival": "22:10",
+    "price": "₹ 13,111",
+    "origin": "Bangalore",
+    "destination": "Delhi",
+    "searchdatetime": "2025-10-18T06:34:20.232336Z"
+  },
+  {
+    "airline": "Indigo",
+    "flight_number": "6E-5267",
+    "departure": "19:15",
+    "arrival": "22:10",
+    "price": "₹ 13,111",
+    "origin": "Bangalore",
+    "destination": "Delhi",
+    "searchdatetime": "2025-10-18T06:34:20.296891Z"
+  },
+  {
+    "airline": "Indigo",
+    "flight_number": "6E-6406",
+    "departure": "20:30",
+    "arrival": "23:20",
+    "price": "₹ 13,111",
+    "origin": "Bangalore",
+    "destination": "Delhi",
+    "searchdatetime": "2025-10-18T06:34:20.490215Z"
+  },
+  {
+    "airline": "Indigo",
+    "flight_number": "6E-2174",
+    "departure": "15:15",
+    "arrival": "18:05",
+    "price": "₹ 13,937",
+    "origin": "Bangalore",
+    "destination": "Delhi",
+    "searchdatetime": "2025-10-18T06:34:20.575050Z"
+  },
+  {
+    "airline": "Indigo",
+    "flight_number": "6E-6034",
+    "departure": "18:00",
+    "arrival": "20:55",
+    "price": "₹ 13,937",
+    "origin": "Bangalore",
+    "destination": "Delhi",
+    "searchdatetime": "2025-10-18T06:34:20.655941Z"
+  },
+  {
+    "airline": "Indigo",
+    "flight_number": "6E-6039",
+    "departure": "16:35",
+    "arrival": "19:30",
+    "price": "₹ 14,821",
+    "origin": "Bangalore",
+    "destination": "Delhi",
+    "searchdatetime": "2025-10-18T06:34:20.738243Z"
+  },
+  {
+    "airline": "local_offer Save up to Rs.1000. Use code - AIRDNEW",
+    "flight_number": "AIRDNEW",
+    "departure": "21:30",
+    "arrival": "08:40",
+    "price": "Rs.1000",
+    "origin": "Bangalore",
+    "destination": "Delhi",
+    "searchdatetime": "2025-10-18T06:34:20.815470Z"
+  },
+  {
+    "airline": "Air India Express",
+    "flight_number": "IX-1137,1621",
+    "departure": "21:30",
+    "arrival": "08:40",
+    "price": "₹ 15,119",
+    "origin": "Bangalore",
+    "destination": "Delhi",
+    "searchdatetime": "2025-10-18T06:34:20.834265Z"
+  },
+  {
+    "airline": "local_offer Save up to Rs.1000. Use code - AIRDNEW",
+    "flight_number": "AIRDNEW",
+    "departure": "19:25",
+    "arrival": "08:40",
+    "price": "Rs.1000",
+    "origin": "Bangalore",
+    "destination": "Delhi",
+    "searchdatetime": "2025-10-18T06:34:20.891829Z"
+  },
+  {
+    "airline": "Air India Express",
+    "flight_number": "IX-2661,1621",
+    "departure": "19:25",
+    "arrival": "08:40",
+    "price": "₹ 15,635",
+    "origin": "Bangalore",
+    "destination": "Delhi",
+    "searchdatetime": "2025-10-18T06:34:20.910651Z"
+  },
+  {
+    "airline": "Indigo",
+    "flight_number": "6E-6017,2166",
+    "departure": "18:30",
+    "arrival": "00:05",
+    "price": "₹ 16,161",
+    "origin": "Bangalore",
+    "destination": "Delhi",
+    "searchdatetime": "2025-10-18T06:34:20.967271Z"
+  },
+  {
+    "airline": "Indigo",
+    "flight_number": "6E-2335",
+    "departure": "23:00",
+    "arrival": "02:00",
+    "price": "₹ 16,783",
+    "origin": "Bangalore",
+    "destination": "Delhi",
+    "searchdatetime": "2025-10-18T06:34:21.044384Z"
+  },
+  {
+    "airline": "local_offer Save up to Rs.1000. Use code - AIRDNEW",
+    "flight_number": "AIRDNEW",
+    "departure": "14:10",
+    "arrival": "22:45",
+    "price": "Rs.1000",
+    "origin": "Bangalore",
+    "destination": "Delhi",
+    "searchdatetime": "2025-10-18T06:34:21.121064Z"
+  },
+  {
+    "airline": "Air India Express",
+    "flight_number": "IX-2014,1189",
+    "departure": "14:10",
+    "arrival": "22:45",
+    "price": "₹ 17,399",
+    "origin": "Bangalore",
+    "destination": "Delhi",
+    "searchdatetime": "2025-10-18T06:34:21.139978Z"
+  },
+  {
+    "airline": "Indigo",
+    "flight_number": "6E-6875,2409",
+    "departure": "18:45",
+    "arrival": "00:10",
+    "price": "₹ 19,663",
+    "origin": "Bangalore",
+    "destination": "Delhi",
+    "searchdatetime": "2025-10-18T06:34:21.196466Z"
+  },
+  {
+    "airline": "Indigo",
+    "flight_number": "6E-",
+    "departure": "22:35",
+    "arrival": "04:15",
+    "price": "₹ 20,015",
+    "origin": "Bangalore",
+    "destination": "Delhi",
+    "searchdatetime": "2025-10-18T06:34:21.273446Z"
+  },
+  {
+    "airline": "Indigo",
+    "flight_number": "6E-6784,",
+    "departure": "21:30",
+    "arrival": "02:55",
+    "price": "₹ 20,215",
+    "origin": "Bangalore",
+    "destination": "Delhi",
+    "searchdatetime": "2025-10-18T06:34:21.348831Z"
+  },
+  {
+    "airline": "Indigo",
+    "flight_number": "6E-",
+    "departure": "18:05",
+    "arrival": "23:25",
+    "price": "₹ 20,409",
+    "origin": "Bangalore",
+    "destination": "Delhi",
+    "searchdatetime": "2025-10-18T06:34:21.425134Z"
+  },
+  {
+    "airline": "IndiGo",
+    "flight_number": "6E-441,2279",
+    "departure": "20:40",
+    "arrival": "02:30",
+    "price": "₹ 20,773",
+    "origin": "Bangalore",
+    "destination": "Delhi",
+    "searchdatetime": "2025-10-18T06:34:21.499914Z"
+  },
+  {
+    "airline": "Indigo",
+    "flight_number": "6E-6743,6752",
+    "departure": "16:25",
+    "arrival": "21:20",
+    "price": "₹ 20,829",
+    "origin": "Bangalore",
+    "destination": "Delhi",
+    "searchdatetime": "2025-10-18T06:34:21.593035Z"
+  },
+  {
+    "airline": "local_offer Save up to Rs.1000. Use code - AIRDNEW",
+    "flight_number": "AIRDNEW",
+    "departure": "21:45",
+    "arrival": "13:40",
+    "price": "Rs.1000",
+    "origin": "Bangalore",
+    "destination": "Delhi",
+    "searchdatetime": "2025-10-18T06:34:21.667883Z"
+  },
+  {
+    "airline": "Air India Express",
+    "flight_number": "IX-1955,2978",
+    "departure": "21:45",
+    "arrival": "13:40",
+    "price": "₹ 21,036",
+    "origin": "Bangalore",
+    "destination": "Delhi",
+    "searchdatetime": "2025-10-18T06:34:21.688026Z"
+  },
+  {
+    "airline": "local_offer Save up to Rs.1000. Use code - AIRDNEW",
+    "flight_number": "AIRDNEW",
+    "departure": "19:55",
+    "arrival": "09:25",
+    "price": "Rs.1000",
+    "origin": "Bangalore",
+    "destination": "Delhi",
+    "searchdatetime": "2025-10-18T06:34:21.743493Z"
+  },
+  {
+    "airline": "Air India Express",
+    "flight_number": "IX-2068,1191",
+    "departure": "19:55",
+    "arrival": "09:25",
+    "price": "₹ 21,246",
+    "origin": "Bangalore",
+    "destination": "Delhi",
+    "searchdatetime": "2025-10-18T06:34:21.762768Z"
+  },
+  {
+    "airline": "Air India Express",
+    "flight_number": "IX-2014,1119",
+    "departure": "14:10",
+    "arrival": "21:30",
+    "price": "₹ 21,383",
+    "origin": "Bangalore",
+    "destination": "Delhi",
+    "searchdatetime": "2025-10-18T06:34:21.839132Z"
+  },
+  {
+    "airline": "local_offer Save up to Rs.1000. Use code - AIRDNEW",
+    "flight_number": "AIRDNEW",
+    "departure": "22:00",
+    "arrival": "13:45",
+    "price": "Rs.1000",
+    "origin": "Bangalore",
+    "destination": "Delhi",
+    "searchdatetime": "2025-10-18T06:34:21.895052Z"
+  },
+  {
+    "airline": "Air India Express",
+    "flight_number": "IX-5038,1037",
+    "departure": "22:00",
+    "arrival": "13:45",
+    "price": "₹ 21,551",
+    "origin": "Bangalore",
+    "destination": "Delhi",
+    "searchdatetime": "2025-10-18T06:34:21.913936Z"
+  },
+  {
+    "airline": "IndiGo",
+    "flight_number": "6E-",
+    "departure": "19:50",
+    "arrival": "02:00",
+    "price": "₹ 21,871",
+    "origin": "Bangalore",
+    "destination": "Delhi",
+    "searchdatetime": "2025-10-18T06:34:21.970932Z"
+  },
+  {
+    "airline": "local_offer Save up to Rs.1000. Use code - AIRDNEW",
+    "flight_number": "AIRDNEW",
+    "departure": "15:30",
+    "arrival": "18:25",
+    "price": "Rs.1000",
+    "origin": "Bangalore",
+    "destination": "Delhi",
+    "searchdatetime": "2025-10-18T06:34:22.045479Z"
+  },
+  {
+    "airline": "Air India Express",
+    "flight_number": "IX-1404",
+    "departure": "15:30",
+    "arrival": "18:25",
+    "price": "₹ 22,104",
+    "origin": "Bangalore",
+    "destination": "Delhi",
+    "searchdatetime": "2025-10-18T06:34:22.064366Z"
+  },
+  {
+    "airline": "Indigo",
+    "flight_number": "6E-6168,5008",
+    "departure": "17:25",
+    "arrival": "22:40",
+    "price": "₹ 22,467",
+    "origin": "Bangalore",
+    "destination": "Delhi",
+    "searchdatetime": "2025-10-18T06:34:22.121354Z"
+  },
+  {
+    "airline": "Indigo",
+    "flight_number": "6E-",
+    "departure": "18:25",
+    "arrival": "00:05",
+    "price": "₹ 24,990",
+    "origin": "Bangalore",
+    "destination": "Delhi",
+    "searchdatetime": "2025-10-18T06:34:22.195697Z"
+  },
+  {
+    "airline": "IndiGo",
+    "flight_number": "6E-5295,5021",
+    "departure": "22:30",
+    "arrival": "04:20",
+    "price": "₹ 25,527",
+    "origin": "Bangalore",
+    "destination": "Delhi",
+    "searchdatetime": "2025-10-18T06:34:22.272212Z"
+  },
+  {
+    "airline": "local_offer Save up to Rs.1000. Use code - AIRDNEW",
+    "flight_number": "AIRDNEW",
+    "departure": "18:55",
+    "arrival": "09:05",
+    "price": "Rs.1000",
+    "origin": "Bangalore",
+    "destination": "Delhi",
+    "searchdatetime": "2025-10-18T06:34:22.346600Z"
+  },
+  {
+    "airline": "Air India Express",
+    "flight_number": "IX-1168,1159",
+    "departure": "18:55",
+    "arrival": "09:05",
+    "price": "₹ 25,929",
+    "origin": "Bangalore",
+    "destination": "Delhi",
+    "searchdatetime": "2025-10-18T06:34:22.365409Z"
+  },
+  {
+    "airline": "Indigo",
+    "flight_number": "6E-6596,5266",
+    "departure": "15:50",
+    "arrival": "21:05",
+    "price": "₹ 26,090",
+    "origin": "Bangalore",
+    "destination": "Delhi",
+    "searchdatetime": "2025-10-18T06:34:22.422678Z"
+  },
+  {
+    "airline": "local_offer Save up to Rs.1000. Use code - AIRDNEW",
+    "flight_number": "AIRDNEW",
+    "departure": "14:45",
+    "arrival": "22:15",
+    "price": "Rs.1000",
+    "origin": "Bangalore",
+    "destination": "Delhi",
+    "searchdatetime": "2025-10-18T06:34:22.497559Z"
+  },
+  {
+    "airline": "Air India Express",
+    "flight_number": "IX-1087,1173",
+    "departure": "14:45",
+    "arrival": "22:15",
+    "price": "₹ 26,175",
+    "origin": "Bangalore",
+    "destination": "Delhi",
+    "searchdatetime": "2025-10-18T06:34:22.516348Z"
+  },
+  {
+    "airline": "Indigo",
+    "flight_number": "6E-6277,6046",
+    "departure": "14:45",
+    "arrival": "20:05",
+    "price": "₹ 26,289",
+    "origin": "Bangalore",
+    "destination": "Delhi",
+    "searchdatetime": "2025-10-18T06:34:22.572542Z"
+  },
+  {
+    "airline": "local_offer Save up to Rs.1000. Use code - AIRDNEW",
+    "flight_number": "AIRDNEW",
+    "departure": "20:15",
+    "arrival": "09:20",
+    "price": "Rs.1000",
+    "origin": "Bangalore",
+    "destination": "Delhi",
+    "searchdatetime": "2025-10-18T06:34:22.646523Z"
+  },
+  {
+    "airline": "Air India Express",
+    "flight_number": "IX-1871,1511",
+    "departure": "20:15",
+    "arrival": "09:20",
+    "price": "₹ 26,534",
+    "origin": "Bangalore",
+    "destination": "Delhi",
+    "searchdatetime": "2025-10-18T06:34:22.665618Z"
+  },
+  {
+    "airline": "Indigo",
+    "flight_number": "6E-6067,2027",
+    "departure": "16:45",
+    "arrival": "22:25",
+    "price": "₹ 26,963",
+    "origin": "Bangalore",
+    "destination": "Delhi",
+    "searchdatetime": "2025-10-18T06:34:22.722866Z"
+  },
+  {
+    "airline": "Indigo",
+    "flight_number": "6E-",
+    "departure": "23:30",
+    "arrival": "05:15",
+    "price": "₹ 27,031",
+    "origin": "Bangalore",
+    "destination": "Delhi",
+    "searchdatetime": "2025-10-18T06:34:22.796569Z"
+  },
+  {
+    "airline": "IndiGo",
+    "flight_number": "6E-851,2193",
+    "departure": "16:10",
+    "arrival": "22:00",
+    "price": "₹ 27,376",
+    "origin": "Bangalore",
+    "destination": "Delhi",
+    "searchdatetime": "2025-10-18T06:34:22.872673Z"
+  },
+  {
+    "airline": "Air India Express",
+    "flight_number": "IX-1087,1039",
+    "departure": "14:45",
+    "arrival": "01:30",
+    "price": "₹ 27,825",
+    "origin": "Bangalore",
+    "destination": "Delhi",
+    "searchdatetime": "2025-10-18T06:34:22.966133Z"
+  },
+  {
+    "airline": "IndiGo",
+    "flight_number": "6E-6423,2385",
+    "departure": "18:55",
+    "arrival": "00:55",
+    "price": "₹ 32,064",
+    "origin": "Bangalore",
+    "destination": "Delhi",
+    "searchdatetime": "2025-10-18T06:34:23.023313Z"
+  },
+  {
+    "airline": "REVIEW YOUR BOOKING",
+    "flight_number": "",
+    "departure": "",
+    "arrival": "",
+    "price": "₹ 0",
+    "origin": "Bangalore",
+    "destination": "Delhi",
+    "searchdatetime": "2025-10-18T06:34:23.097805Z"
+  },
+  {
+    "airline": "Passenger Name",
+    "flight_number": "",
+    "departure": "",
+    "arrival": "",
+    "price": "₹ 0",
+    "origin": "Bangalore",
+    "destination": "Delhi",
+    "searchdatetime": "2025-10-18T06:34:23.127688Z"
+  },
+  {
+    "airline": "Add GST for this Booking   ( GST is mandatory for this fare )",
+    "flight_number": "",
+    "departure": "",
+    "arrival": "",
+    "price": "₹ 0",
+    "origin": "Bangalore",
+    "destination": "Delhi",
+    "searchdatetime": "2025-10-18T06:34:23.137414Z"
+  },
+  {
+    "airline": "Fare Summary",
+    "flight_number": "",
+    "departure": "",
+    "arrival": "",
+    "price": "₹ 0",
+    "origin": "Bangalore",
+    "destination": "Delhi",
+    "searchdatetime": "2025-10-18T06:34:23.156131Z"
+  }
+]
